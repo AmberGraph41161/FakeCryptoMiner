@@ -1,7 +1,7 @@
 # FakeCryptoMiner
 
-This was a super random projec that was only created 
-due to a random boot of motivation at like, midnight.
+This was a super random project that was only created 
+due to a random boost of motivation at like, midnight.
 
 Yes, I know this is some terribly digusting and badly written code.
 This was just for fun, so don't criticize the monstrosity of terribly written code I have created
